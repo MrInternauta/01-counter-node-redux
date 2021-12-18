@@ -1,5 +1,5 @@
 # Counter redux
-It's a simple project using Redux pattern
+It's a simple project using Redux pattern since 0
  
 ### Tech
 
